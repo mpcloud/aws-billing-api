@@ -4,7 +4,7 @@ AWS Billing Report API:
 2.	Definir si se quiere que ajustes a meses previos se reflejjen:
 a.	 ![](images/1.png)
 3.	Configurar el envío a Athena:
-a.	 ![](images/2.png)
+a.	 ![](images/2.jpg)
 b.	Referencia https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/athena.html
 4.	Crear una función lambda con el contenido siguiente: https://github.com/mpcloud/aws-billing-api/blob/master/athena_billing.py
 a.	Ejemplo: https://docs.aws.amazon.com/es_es/toolkit-for-eclipse/v1/user-guide/lambda-tutorial.html
