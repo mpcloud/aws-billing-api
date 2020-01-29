@@ -19,13 +19,13 @@ a.	 ![](images/5.png)
 9.	Configuraremos cada parte para mapear los parámetros que pasaremos en la URL:  
 a.	 ![](images/6.png)  
 b.	Method Request  
-i.   ![](images/7.png)  
+   ![](images/7.png)  
 c.	Integration Request  
 i.   ![](images/8.png)  
-ii.  ![](images/9.png)  
+ii.   ![](images/9.png)  
 d.	Integration Response  
-i.  ![](images/10.png)  
+  ![](images/10.png)  
 e.	Method Response  
-i.  ![](images/11.png)  
+  ![](images/11.png)  
 Los parámetros los recibe de la siguiente manera, por ejemplo: AccountID=Your-Account-ID&Month=12&Year=2018, podemos ir a test y validarlo, por ejemplo la url se vería de la siguiente manera: https://your-url.execute-api.us-east-1.amazonaws.com/Prod/test?AccountID=360616938971&Month=12&Year=2018  
 
