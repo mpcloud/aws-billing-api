@@ -2,7 +2,7 @@ AWS Billing Report API:
 
 1.	Configurar reporte de billing con Athena:  
 a.  https://aws.amazon.com/blogs/aws-cost-management/querying-your-aws-cost-and-usage-report-using-amazon-athena/
-2.	Definir si se quiere que ajustes a meses previos se reflejen:  
+2.	Definir, si se quiere, que ajustes a meses previos se reflejen:  
 a.	 ![](images/1.png)  
 3.	Configurar el envío a Athena:  
 a.	 ![](images/2.jpg)  
