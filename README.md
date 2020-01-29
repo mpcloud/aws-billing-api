@@ -5,9 +5,9 @@ a.  https://aws.amazon.com/blogs/aws-cost-management/querying-your-aws-cost-and-
 2.	Definir si se quiere que ajustes a meses previos se reflejen:  
 a.	 ![](images/1.png). 
 3.	Configurar el envío a Athena:  
-a.	 ![](images/2.jpg). 
+a.	 ![](images/2.jpg)  
 b.	Referencia https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/athena.html. 
-4.	Crear una función lambda con el contenido siguiente: https://github.com/mpcloud/code/aws-billing-api/blob/master/athena_billing.py. 
+4.	Crear una función lambda con el contenido siguiente: https://github.com/mpcloud/code/aws-billing-api/blob/master/athena_billing.py  
 a.	Ejemplo: https://docs.aws.amazon.com/es_es/toolkit-for-eclipse/v1/user-guide/lambda-tutorial.html. 
 5.	Asignar los valores requeridos:  
 a.	 ![](images/3.png). 
